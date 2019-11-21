@@ -1,3 +1,3 @@
-# Learning Python3
+# Learning a medley of things
 
-Files I've created to practice advancing in coding
+Files I've created to practice programming
